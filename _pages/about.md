@@ -22,4 +22,4 @@ Hi! I'm Mindy Jia, a current undergraduate from Shanghai, China studying Compute
 
 Outside of my academics, I'm interested in entrepreneurship at the intersection of technology, language, and healthcare — particularly how computational methods can be used to aid physical aspects of human communication at scale.
 
-I am also a runner, film photographer, occasional Substack writer, and big Lana Del Rey fan.
+I am also a runner, [film photographer](https://www.instagram.com/mjmarginalia/), occasional Substack writer, and big Lana Del Rey fan.
