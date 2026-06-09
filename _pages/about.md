@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Berkeley, California</p>
+    <p>San Francisco Bay Area</p>
     <p><a href="mailto:mindyjia1125@gmail.com">mindyjia1125@gmail.com</a></p>
 selected_papers: false
 social: true
