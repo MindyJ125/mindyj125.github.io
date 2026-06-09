@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my work in data, NLP, and more.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: []
 horizontal: false
 ---
 
