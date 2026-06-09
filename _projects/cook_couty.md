@@ -4,7 +4,7 @@ title: Cook County Housing Price Prediction
 description: EDA, feature engineering, and linear regression on 200K+ housing records from Cook County, Illinois — built for UC Berkeley's Data 100.
 img: assets/img/cook_county.jpg
 importance: 3
-category: ""
+category: 
 ---
 
 ## Overview
