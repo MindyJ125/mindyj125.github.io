@@ -8,10 +8,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>San Francisco Bay Area</p>
-    <p>mindyjia1125@gmail.com</p>
-    <p><a href="https://github.com/MindyJ125">GitHub</a> · <a href="https://linkedin.com/in/mingming-jia-800a17324">LinkedIn</a> · <a href="https://instagram.com/mjmarginalia">Instagram</a></p>
-selected_papers: false
+    <p style="font-family: inherit; font-size: 0.9rem;">San Francisco Bay Area</p>
+    <p style="font-family: inherit; font-size: 0.9rem;">mindyjia1125@gmail.com</p>
+    <p style="font-family: inherit; font-size: 0.9rem;"><a href="https://github.com/MindyJ125">GitHub</a> · <a href="https://linkedin.com/in/mingming-jia-800a17324">LinkedIn</a> · <a href="https://instagram.com/mjmarginalia">Instagram</a></p>
 social: false
 announcements:
   enabled: false
