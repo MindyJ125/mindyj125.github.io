@@ -9,9 +9,10 @@ profile:
   image_circular: false
   more_info: >
     <p>San Francisco Bay Area</p>
-    <p><a href="mailto:mindyjia1125@gmail.com">mindyjia1125@gmail.com</a></p>
+    <p>mindyjia1125@gmail.com</p>
+    <p><a href="https://github.com/MindyJ125">GitHub</a> · <a href="https://linkedin.com/in/mingming-jia-800a17324">LinkedIn</a> · <a href="https://instagram.com/mjmarginalia">Instagram</a></p>
 selected_papers: false
-social: true
+social: false
 announcements:
   enabled: false
 latest_posts:
