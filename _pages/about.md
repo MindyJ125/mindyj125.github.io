@@ -7,7 +7,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
  more_info: >
     <p style="font-family: Roboto, sans-serif; font-size: 1rem; font-weight: 300; line-height: 1.5;">San Francisco Bay Area</p>
     <p style="font-family: Roboto, sans-serif; font-size: 1rem; font-weight: 300; line-height: 1.5;">mindyjia1125@gmail.com</p>
